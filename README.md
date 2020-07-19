@@ -10,7 +10,7 @@
 
 I love building teams, creating value and solving problems. The common thread is often code.
 
-## Code
+## Tools
 
 The stack I work with changes depending on project needs. The following often make an appearance
 
