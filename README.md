@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/-Aaron-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://uk.linkedin.com/in/aaron-asaro/)](https://uk.linkedin.com/in/aaron-asaro)
 
 
-## About me 
+## About 
 
 I love building teams, creating value and solving problems. The common thread is often code.
 
@@ -32,7 +32,7 @@ The stack I work with changes depending on project needs. The following often ma
 <code><img height="50" src="https://www.vectorlogo.zone/logos/wikipedia/wikipedia-ar21.svg"></code>
 
 
-### Interesting stats
+## Interesting stats
 
 Most of my work is in private repos - but there some stuff in public too which this handy tool shows :)
 
