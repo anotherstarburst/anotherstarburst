@@ -8,7 +8,7 @@
 
 ## About 
 
-I love building teams, creating value and solving problems. The common thread is often code.
+I love coaching, creating value and solving problems. The common thread is often code.
 
 ## Tools
 
